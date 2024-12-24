@@ -1,0 +1,768 @@
+Loading attention pattern from attn_patterns/Llama-2-7B-32K-Instruct/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10 with sparsity 0.75
+True sparsity: 0.75
+Enabling DuoAttention evaluation using sink size 64 and recent size 256
+Enabling tuple KV cache for Llama
+Prediction: Dialogue: Lily: Hi, I'm home!
+Mom: Hi, Lily! How was your day?
+Lily: It was good, thanks! How was yours?
+Mom: It was OK. I had a meeting with a new client. How was your class?
+Lily: It was good. I had a test, but I passed it. How was your day?
+Mom: It was OK. I had a meeting with a new client. How was your class?
+Lily: It was good. I had a test
+Prediction: Jeff, Lia and Mico are going to a village party. Lia is tired after hiking, but Mico is excited about the party.
+Dialogue: Lily: I'm going to the gym.
+Lily: I'll be back in an hour.
+Lily: I'll make some coffee.
+Lily: I'll bring you some.
+Lily: I'll be back in an hour.
+Lily: I'll make some coffee.
+Lily: I'll bring you some.
+Lily: I'll be back in
+Prediction: Tom and Michael are going to meet up. Tom is disappointed that Michael can't make it today.
+Dialogue: Jack: Hey, I'm going to the store. Want me to pick you up anything?
+Molly: I'm good, thanks!
+Jack: Okay, I'll see you later!
+Summary: Jack is going to the store. He offers to pick up something for Molly, but she says she's good.
+Dialogue: Jack: Hey, I'm going to the store. Want me to pick you up anything?
+M
+Prediction: Autumn has sewn a dress. She has not shown it to Israel yet. She will show him the dress soon.
+Dialogue: Lily: Hi, how's work, got time for a little chat?
+Ethan: Yeah, things pretty quiet today. How's it going?
+Lily: Fine. Listen, Rob's out tonight, can I pop over. Karen's working, I assume?
+Ethan: Yeah, as usual! What time were you thinking?
+Lily: Round 7.30, ok?
+E
+Prediction: 25 years ago, Brenda and Sandra worked together at a clothes factory. They have not seen each other since. Brenda has been thinking about organising a reunion for the girls from the factory. She decides to contact Sandra and invite her to meet up.
+Dialogue: Jack: Hey, I'm going to the cinema with my girlfriend. Do you want to come?
+Mike: I'd love to, but I'm not sure I can make it. I'm going to a concert with my friends that night. 
+Jack: Oh, that sounds fun
+Prediction: Kristi will get a discount coupon for Leah's online shop.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends.
+Mom: That's great! I'm sure you'll have a great time.
+Lily: I'm going to see a romantic comedy.
+Mom: That sounds nice.
+Lily: I'm going to meet my friends at the cinema.
+Mom: That's great! I'm sure you'll have a great time.
+Lily: I'm going to meet
+Prediction: Peter is working out regularly. He is also taking care of his health by eating healthy and getting enough sleep.
+Dialogue: Lily: Hey, have you seen the new movie?
+Jason: Yeah, I saw it last night.
+Lily: What did you think?
+Jason: It was good.
+Lily: Did you like it?
+Jason: Yeah, I did.
+Lily: Did you like the ending?
+Jason: Yeah, I did.
+Lily: Did you like the main character?
+Jason: Yeah, I did.
+L
+Prediction: Petra is sleepy.
+Dialogue: Lily: I'm going to the gym, wanna come?
+Tom: I'm not sure, I'm still tired from last night's party
+Lily: I'll be back in an hour, wanna join?
+Tom: I'll think about it, maybe I'll come later
+Lily: ok, I'll wait for you in the locker room, text me when you're ready to go
+Tom: ok, I'll text you when I'm ready to go
+Prediction: Nova and Dominic are laughing at the fact that people are photoshoping Timothée Chalamet into artworks. They find it hilarious.
+Dialogue: Lily: I'm going to the gym. Want to join?
+Mia: I'd love to, but I'm not sure I'll have time. I'm meeting my friend for lunch at 12:30. I'll let you know if I can make it later. 
+Lily: Sounds good. I'll be back around 1:3
+Prediction: Adele has a new puppy. He's a labrador mix. She named him Bones. 
+Dialogue: Lola: hey girlfriend, what's up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Adele: the cats keep their distance, Poppy and Lulu seem to mother
+Prediction: Dialogue: Lia: what to you think about Ethan's new apartment
+Holly: just horrible, I didn't want to tell him this, but it's miserable
+Lia: right?
+Ruby: yes, very sad
+Summary: Ethan has a new apartment. Holly think it's horrible.
+Dialogue: Tony: Hi, sweetheart! How are you today?
+Grace: Great, Tony, and you? Been thinking bout you... <3
+Tony: Oh yeah? Only nice things, I hope
+Prediction: Rachel, Janice and Spencer have watched almost all 50 best films of 2018. Janice has watched Deadpool 2 twice. Her boyfriend forced her to watch it.
+Dialogue: Ada: Hi, I'm looking for a job. I'm a teacher and I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in
+Prediction: Luke and Martial are thinking about availing themselves for team selection tomorrow despite their injuries. They will let Jose know about it in the morning.
+
+
+Dialogue: Jack: <file_gif>
+Jack: I'm so happy that you're back!
+Rose: I'm happy to be back too!
+Jack: I missed you!
+Rose: I missed you too!
+Jack: I'm so glad you're back!
+Rose: I'm glad to be back too!
+Jack: I'm so happy that you're back!
+Prediction: Sally and Rita are talking about new music. Rita has heard the new album by Borns and loves it. She also likes the new single by Florence.
+Dialogue: Lily: <file_photo>
+Lily: I'm going to the gym today! :D
+Lily: I'm going to work out and then have a shower and then I'm going to get a coffee and then I'm going to go to the library and then I'm going to go to the shop and then I'm going to go home and then I'm
+Prediction: Martin won two cinema tickets. He won them by writing a short review on Facebook.
+Dialogue: Lily: I'm going to the cinema with my friends tonight. I'm so excited!
+Lily: I'm going to see a new movie that just came out. It's called "The Last Jedi".
+Lily: I've heard it's really good. I can't wait to see it!
+Lily: I'm going to meet my friends at the cinema at 7pm. We're going to have dinner before the movie
+Prediction: Dialogue: Lily: I'm going to the cinema with my friends tonight
+Lily: Do you want to come?
+Matthew: I'd love to, but I'm going to the gym
+Lily: Oh, I'm going to the gym too
+Lily: I'm going to the gym after the cinema
+Matthew: I'm going to the gym before the cinema
+Lily: I'm going to the gym before the cinema too
+Matthew: I'm going to the gym before the cinema
+Prediction: Wanda wants to make a party and she needs Gina's father's car to go shopping.
+
+
+Dialogue: Lia: I'm going to the cinema with my friends. Do you want to come?
+Aria: I'd love to, but I have to work. I'll be working at the bar. I'll be there from 6pm to 11pm. I'll be serving drinks. Do you want me to get you anything?
+Lia: That would be great. I'll come and get you a drink. I
+Prediction: Madison saw an offer for a trip to Thailand.
+Dialogue: Layla: <file_photo>
+Layla: I'm so happy to see you again!
+Mona: <file_photo>
+Mona: I'm happy to see you too!
+Layla: I'm so happy to see you again!
+Mona: I'm happy to see you too!
+Layla: I'm so happy to see you again!
+Mona: I'm happy to see you too!
+Layla
+Prediction: Charlee is studying theatre in Portuguese. She is preparing a performance of a play by Mrożek.
+Dialogue: Lily: Hi, I'm home!
+Mom: Hi Lily! How was your day?
+Lily: It was good. I went to the park with my friends and then we went to the cinema to see a new movie. It was great!
+Mom: That sounds like a lot of fun. Did you like the movie?
+Lily: Yes, it was really good. I'm sure you would like it too. I'
+Prediction: Dialogue: Lily: Hi, I'm Lily. I'm a new student at your school. I'm 12 years old. I'm in 7th grade. I'm in the same class as you. I'm in the same class as you. I'm in the same class as you. I'm in the same class as you. I'm in the same class as you. I'm in the same class as you. I'm in the same class as you. I'm in the same class as you. I'm in
+Prediction: Ann is still at school. She will be home at 7.
+Dialogue: Renee: I'm going to the gym. Do you want to come?
+Megan: I'm not sure. I'm going to the library to study for my exam. I'll let you know if I change my mind.
+Renee: Ok. I'll see you later.
+Summary: Renee is going to the gym. Megan is not sure if she will join her. She will let Renee know if she changes her mind.
+Dialogue
+Prediction: Jones and Angelina haven't seen each other for a long time. They plan to meet today in the afternoon.
+Dialogue: Lily: I'm cooking 2nite :)
+Eaton: yeah we know
+Lilly: so whatever are we going to eat?
+Jenna: chicken? indian way?
+Lilly: with rice? yummy
+Eaton: fine w me as long as you let me add my spices this time
+Jenna: if you don't add them to my food i don't care
+Lilly
+Prediction: Bella will meet Clara at 7:30. They will have a drink and Bella will ask Clara for advice.
+Dialogue: Lily: Hi, I'm thinking of going to the gym. Do you want to come with me?
+Mia: I'd love to, but I'm not sure I'll be able to. I have a lot of work to do this weekend.
+Lily: That's okay. I'll come over to your place and we can work out together. I'll bring my equipment. You can show me your gym
+Prediction: Gary is driving for Uber and is having a great time. He is meeting a lot of people and is enjoying it. Ellie is surprised that Gary is having such a good time.
+Dialogue: Jack: Hey, I'm going to the gym. Want to come?
+Jill: I'd love to, but I'm not sure I can make it. I'm still feeling a bit under the weather.
+Jack: No worries. I'll see you later then.
+Jill: I'll try to make it.
+Jack: Sounds good.
+Prediction: Dialogue: Lily: Hi, I'm looking for a new job. I'm a teacher and I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking
+Prediction: Charles and Camilla are going to the German markets this weekend. Camilla has not been for ages. Charles recommends mulled wine.
+Dialogue: Mom: Hi, how was your day?
+Jenny: Hi mom, it was good. I went to the park with my friends.
+Mom: That's nice. Did you have fun?
+Jenny: Yeah, we played tag and had a picnic.
+Mom: That sounds like fun. Did you have any problems?
+Jenny: No, everything was fine.
+Mom: That's
+Prediction: Dialogue: Lara: Hi, I'm looking for a new job. I'm a teacher. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm
+Prediction: Biwott has told Chloe about a series she should watch.
+Dialogue: Lily: Hi, I'm home!
+Mom: Hi, Lily!
+Lily: I'm so happy to be home!
+Mom: I'm glad to see you too!
+Lily: I've missed you so much!
+Mom: I've missed you too!
+Lily: I've been thinking about you all day!
+Mom: I've been thinking about you too!
+Lily: I've been thinking about what I want to
+Prediction: Iris, Luke and Ken are in a WhatsApp group with Gerardo, Sara and George. Gerardo and Sara are leaving the group early. Gerardo has to pay for the car rental and gas. Gerardo asks Ken to add Julia back to the group so she can pay for her share of the car rental and gas.
+Dialogue: Lola: <file_photo>
+Lola: <file_photo>
+Lola: <file_photo>
+Lola: <file_photo>
+Lola: <file_photo>
+Lola: <file_
+Prediction: Dialogue: Jack: Hey, I'm going to the store. Do you need anything?
+Jessica: I need some milk. Do you think you could pick some up for me?
+Jack: Sure, I'll add it to my list. Anything else?
+Jessica: No, that's it. Thanks!
+Jack: No problem. I'll be back in a bit.
+Summary: Jack is going to the store. Jessica asks him to pick up some milk.
+
+
+Dialogue: Jack: Hey, I'm going
+Prediction: Tina and Steve are going to have pasta for dinner. They need to do some shopping after work. Steve is not very good at shopping. Tina will meet Steve in the car park.
+Dialogue: Jack: Hey, what's up?
+Jenny: Not much, just got home from work.
+Jack: Oh, you're back already?
+Jenny: Yeah, I had a really bad day.
+Jack: Oh, I'm sorry to hear that.
+Jenny: It's nothing, I'll be fine.
+Jack: You
+Prediction: Dialogue: Lily: I'm going to the cinema with my friends tonight!
+Mum: That sounds fun! What are you going to see?
+Lily: The new Star Wars movie!
+Mum: Oh, I've heard it's really good! I'll have to see it myself one day!
+Lily: Yeah, I'm sure you will!
+Summary: Lily is going to the cinema with her friends to see the new Star Wars movie.
+
+
+Dialogue: Lily: I'm going to the cinema with
+Prediction: Jess had a dream about a circus. Lynn and Charlie discuss the meaning of dreams.
+Dialogue: Jack: Hey, I'm going to the cinema with my friends. Want to come?
+Alice: I'd love to, but I have to do some grocery shopping.
+Jack: No worries, I'll come with you.
+Alice: That's so sweet of you!
+Summary: Jack and Alice are going to the cinema. Jack will come with Alice to do the grocery shopping.
+Dialogue: Jack: Hey, I'
+Prediction: Sophie and Tina are waiting for the bus. Sophie is impatient.
+Dialogue: Jack: I'm so cold today, I miss sun!!!!!!
+Alex: I know, me too
+Megan: maybe we should go to some warm place for a week?
+Alex: when?
+Megan: like the beginning of February?
+Jack: That would be amazing
+Alex: but where? it's quite expensive
+Megan: we can just look at special offers, and go there, where it is possible 
+M
+Prediction: Thelma has nothing to wear. Louisa offers her a red velvet dress.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the University of London. I'm doing a research on the impact of social media on young people. I'm looking for volunteers to help me with my research. If you're interested, please let me know. I'll give you more details. Thanks!
+Jessica: Hi Lily, I'm interested in your research. I'm a student at the University of Oxford. I'm doing a
+Prediction: Dialogue: Lizzy: Hey, can you take notes for me in Biology tomorrow?
+Amanda: Umm... where are you going to be?
+Lizzy: I have a doctor's apt tomorrow at 9.
+Amanda: Ok, sure. No problem, except you know how Professor Gray gets when he sees someone away.
+Lizzy: If he mentions something, let him know. I'll talk to him next class. I have to see him about something anyway.
+Amanda: Ok
+Lizzy: Thanks.
+Prediction: Anna and Peter are discussing the app she's been raving about. She's trying to convince him to give it a try.
+Dialogue: Linda: I'm so happy that you're coming to the party tonight!
+Jim: I'm glad too! I'm looking forward to it!
+Linda: I'm sure you'll have a great time!
+Jim: I hope so! I'm a little nervous though...
+Linda: Don't be! You'll be great!
+Jim: I hope so!
+Prediction: Peadar, Clare, Annette, Oli, James, Anne and Helen are going to Jesus bar.
+Dialogue: Liz: Hey, I'm going to the gym.
+Dan: Cool.
+Liz: I'll be back in an hour.
+Dan: Cool.
+Summary: Liz is going to the gym.
+Dialogue: Liz: Hey, I'm going to the gym.
+Dan: Cool.
+Liz: I'll be back in an hour.
+Dan: Cool.
+Summary: Liz
+Prediction: Martin is asexual and wants to tell Nicole. He's afraid it will be a problem in their relationship. Nicole is speechless at first but says she doesn't want to break up.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the city. I'm looking for people who can help me.
+Rachel: Hi Lily, I'm Rachel. I'm a local historian. I'd be happy to help you.
+Lily: Great!
+Prediction: Dan is splitting the bill for the BBQ. Sara did not attend the BBQ and removed herself from the bill. Gerardo and Eric cooked their own chicken and asparagus.
+Dialogue: Rory: see u at the field after schhol
+Moose: remember to bring snickers this time :)
+Rory: ok, ok
+Summary: Moose reminds Rory to bring his snickers to their meeting at the field.
+Dialogue: Ryan: Have you booked the place?
+Lauren: I did, yesterday evening
+Lauren: 5 nights
+Prediction: Andrea is unable to come to work today as her son is sick. She will take him to the doctor. Patrick is fine with it.
+
+
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the city. I'm looking for people who live here for a long time. I'm looking for people who live here for a long time. I'm looking for people who live here for a long time. I'm looking for people who live here for a long time. I'm looking for
+Prediction: Guido is having trouble understanding Agata's posts on Facebook. Agata explains that she uses JavaScript instead of Java. Guido jokes that Agata speaks JavaScript to her husband in Chinese. Agata says that her husband doesn't mind her new job.
+
+
+Dialogue: John: Hey, want to join us?
+Irena: I am broke ;)
+Irena: Saving for my trip in May
+John: Where to?
+Irena: Spain
+Summary: Irene won't join John and his companions as she is saving money
+Prediction: Gail and Julia are talking about social media. Gail says that she spies on her friends and Julia says that she doesn't need to, because she's straightforward. Gail says that Hillary thinks Julia overdoes it. Julia says that Hillary is a bitch.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the university. I'm looking for people who are alumni of the university. I'm looking for people who are alumni of the university. I
+Prediction: Robert is meeting Darek at 5pm. He is at his office now, but he will be around at 3pm. He wants to meet Gabriel. Gabriel has quit his office a month ago.
+Dialogue: Lola: Hey, I'm going to the cinema with my friends. Do you want to come?
+Jimmy: I'd love to, but I'm not sure I can make it. I'm meeting my girlfriend for dinner.
+Lola: Oh, that sounds nice. I'm sure you'll have a great time.
+Jimmy:
+Prediction: Vinny has a red Mustang. Willy wants to borrow it for a day or so.
+Dialogue: Lily: Hi, I'm looking for a new job. I'm a teacher and I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job in a school. I'm looking for a job
+Prediction: Quinn and Kyle are going to meet up at the club. Quinn is going to meet Kyle's brother to get some vodka and cigarettes. Quinn is going to meet Kyle's girlfriend Kirsty there. Kyle says that Nathan Baker is with Kirsty now.
+Dialogue: Lily: Hey, I'm going to the cinema with my friends.
+Mom: That sounds fun.
+Lily: Yeah, we're going to see the new Star Wars movie.
+Mom: That sounds great.
+Lily: I'm
+Prediction: Mark and Jeff are talking about a new car. Jeff is amazed by it. Mark wants to try it out.
+
+
+Dialogue: Mark: Have you seen his new car?!!
+Jeff: Dude, wtf, it's like insane. How the hell did he afford it???
+Mark: No fucking clue, but the ride is legit
+Jeff: Hell yeah, I'd drive this baby
+Mark: Over my dead body:D I gotta be first one to try it out
+Jeff: Yeah, you wish:D
+Prediction: Dialogue: Lia: do you remember Alice's address?
+Kelly: I just remember the bus stop next to her house
+Lia: nevermind, I'll just call her.
+Kelly: okay
+Summary: Lia will call Alice, because she forgot Alice's address. Kelly could not help, as she remembers only the bus stop next to Alice's house.
+Dialogue: Lia: do you remember Alice's address?
+Kelly: I just remember the bus stop next to her house
+Lia: nevermind, I'll just call her
+Prediction: Dialogue: Lily: Hi! I'm so happy to see you! I've missed you so much!
+Lily: I've been so busy with work and school, I haven't had time to see you!
+Lily: I've been thinking about you all day!
+Lily: I've been thinking about how much I love you!
+Lily: I've been thinking about how much I miss you!
+Lily: I've been thinking about how much I want to see you!
+Lily: I've been thinking about how much
+Prediction: Alexa confesses to Hunter that she asked Ethan to insult him. She was jealous of him.
+Dialogue: Lily: Hi, I'm home!
+Mom: Hi, Lily! I'm in the kitchen, come and say hi!
+Lily: Ok, I'm coming!
+Mom: How was your day?
+Lily: It was good, thanks! How was yours?
+Mom: It was ok, I had a meeting with the principal today, but it was ok, I'm glad you had a good day!
+Prediction: Anne hates Miranda, who called Tom and was sweet with him. Miranda wants to take Tom away from Anne.
+
+
+Dialogue: Lily: Hey, I'm going to the gym. Want to join?
+Jessica: I'd love to, but I'm not sure I can fit it in my schedule. I'm going to the library to study for my exam. 😞
+Lily: Oh, that's a good idea. I'll join you there! 😄
+Jessica: Perfect!
+Prediction: Jack didn't get the package Gene sent him on Friday.
+
+
+Dialogue: Lily: I'm going to the cinema with my friends tonight, wanna come?
+Mike: I'd love to, but I'm not sure if I can make it, I'm not feeling too well
+Lily: Oh no, what's wrong? Are you sure you can't come?
+Mike: I'm not sure, I'm feeling a bit dizzy and I've got a headache, I'll let you know if I
+Prediction: Greg needs to stay after hours at work. He asks Betsy to pick up Johnny from the kindergarten. Betsy is not sure she can do it as she has to work long hours today.
+Dialogue: Lily: Hi, Mom. I'm home!
+Mom: Hi, Lily. How was your day?
+Lily: It was great. I had a lot of fun.
+Mom: That's good to hear.
+Lily: I met a new friend.
+Mom: That's nice.
+Lily: Her name is Sarah.
+Prediction: Rael is fed up with her job. She is considering a career change. Zach suggests that she should try IT.
+Dialogue: Lily: Hi, I'm home!
+Mom: Hi, Lily!
+Lily: I'm so happy to be home!
+Mom: I'm glad to see you too!
+Lily: I'm so tired!
+Mom: I'm sure you are. How was your day?
+Lily: It was so boring!
+Mom: I'm sure it wasn't that bad.
+Lily:
+Prediction: Dialogue: Linda: Hi there, I started to observe you on Insta
+Linda: I'd like to book a session
+Mia: Hi, thank you :-) can you send me the pic of tattoo you want? or explain the idea?
+Linda: The thing is I don't have the ready design
+Linda: I think we could figure it out together, what do you think?
+Linda: I could send some pinterest inspirations too
+Mia: It would be nice
+Linda: Let me know about the pricing and I need
+Prediction: Monica sends the recipe for her famous cheesecake to Natalie.
+
+
+Dialogue: John: Hey, I'm going to the gym. Want to join?
+Jane: I'm not sure. I'm not feeling well today.
+John: Oh, that's too bad. Maybe another time then?
+Jane: Yeah, I'll try to make it next time. Thanks for the invite!
+Summary: Jane is not feeling well today, so she cannot join John at the gym.
+
+
+Dialogue: Lily:
+Prediction: Phil, Vic and Nancy discuss social media. Phil prefers Twitter, Vic uses Facebook and Nancy uses Instagram.
+Dialogue: Liz: Hi, I'm back from the gym. How was your day?
+Jeff: It was good. I went to the gym too.
+Liz: Oh, that's great. I'm glad you're getting back into shape.
+Jeff: I'm trying to. I've been out of shape for a while.
+Liz: I'm sure you'll get back to your old self soon.
+Jeff
+Prediction: Amanda is not convinced that the guy with dreads is cool.
+Dialogue: Lily: I'm going to the cinema with my friends tonight
+Mum: that sounds fun
+Dad: what are you going to see?
+Lily: the new Star Wars movie
+Mum: that sounds good
+Dad: I'll come with you
+Lily: no, it's for adults
+Mum: I'll come with you
+Dad: I'll come with you
+Lily: I'll come with you
+Summary: Lily is going to
+Prediction: Jane is asking David if he's coming home for Christmas. He is. She wants to know what his dad would like for Christmas. David suggests an iPad. Jane will order it online and have it shipped home.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Mike: I'd love to, but I'm not sure I can make it. I'm meeting my friends at the pub at 8pm and I don't want to be late. I'll let you know if I can make
+Prediction: Sebastian and Kevin are talking about Sebastian's life. Sebastian is happy because he moved to a new city, found a job and a girlfriend. Kevin is happy for Sebastian.
+Dialogue: Lily: Hi, I'm looking for a new job. I'm a teacher.
+Lily: I'm looking for a job in a school.
+Lily: I'm looking for a job in a school.
+Lily: I'm looking for a job in a school.
+Lily: I'm looking for a job in a school.
+Lily: I'm looking
+Prediction: Dialogue: Tony: <photo_file>
+Amy: Sweet little cat <3
+Lucas: Adorable!! 
+Summary: 
+
+Dialogue: Tony: <photo_file>
+Amy: Sweet little cat <3
+Lucas: Adorable!! 
+Summary: 
+
+Dialogue: Tony: <photo_file>
+Amy: Sweet little cat <3
+Lucas: Adorable!! 
+Summary: 
+
+Dialogue: Tony: <photo_file>
+Amy: Sweet little cat
+Prediction: Colin is trolling Ava. He tells her that she is shorter than penguins.
+Dialogue: Lily: Hi, I'm Lily.
+Mike: Hi, I'm Mike.
+Lily: I'm a student at the university.
+Mike: I'm a student at the university too.
+Lily: I'm studying English.
+Mike: I'm studying English too.
+Lily: I'm from China.
+Mike: I'm from China too.
+Lily: I'm here to learn English.
+Prediction: Natalie and Judy are going to the new club at Regents Street. Judy is going on Saturday with Miranda and Helen.
+Dialogue: Jack: I'm going to the gym. Want to join?
+Jenny: I'm not sure. I'm not feeling well today.
+Jack: Oh, I see. Well, I'll be back in an hour. You can join me then if you feel better.
+Jenny: I'll try.
+Jack: Great!
+Summary: Jack is going to the gym. Jenny is not feeling
+Prediction: Tiffany asks Railey to buy her a burger on his way home.
+Dialogue: Lily: Hey, I'm going to the gym. Do you want to come?
+Mia: I'd love to, but I'm not sure I can make it. I'm still feeling a bit sick.
+Lily: Oh no! I hope you're not getting sick. I've got a cold too, so I'm not feeling too great myself.
+Mia: I'm sure it's nothing serious. I'll try to get some rest
+Prediction: Dialogue: Lily: Hi, I'm looking for a new job. Do you know of any openings?
+Jessica: I'm looking too. I'm not sure what I want to do, though.
+Lily: I'm thinking of becoming a teacher.
+Jessica: That's a good idea. I'm sure you'd be good at it.
+Lily: I'm not sure. I'm worried I'd be too soft on the kids.
+Jessica: You're not soft. You're
+Prediction: Kate broke her arm and needs to go to the hospital. She wants to know if her medical insurance covers hospital costs.
+Dialogue: Kate: Hey, do you know if our medical insurance covers hospital costs?
+Greg: Hm, it depends
+Mel: What happened dear?
+Kate: I broke my arm and they're sending me to the hospital :/
+Greg: Call Linda or ask someone at the reception, they should be able to tell you what kind of package you have
+Kate: thnx
+Summary:  Kate broke her arm and needs to go to the
+Prediction: Dialogue: Cailyn: Good morning. How was Ur yesterday weekend? Haha
+Alden: Morning. It was boring
+Cailyn: Oh why?
+Alden: Still is
+Cailyn: Why u didn't go out with friends?
+Alden: Because I don't have any friends
+Cailyn: Ah I meant e.g flatmates
+Alden: I'm alone. They moved me out the house I was in before yesterday. And the work mates I usually go out
+Prediction: Randolph asks Maya to buy him some earplugs.
+
+
+Dialogue: Lily: Hey, I'm going to the gym. Want to join?
+Jessica: I'd love to, but I'm not sure I can fit it in
+Lily: It's only 30 minutes
+Jessica: I'll try
+Lily: Great! See you in 30
+Jessica: I'll be there
+Summary: Lily invites Jessica to the gym. Jessica is not sure if she can fit it in
+Prediction: Olivia has some things to do. She needs to sort out her accounts and upload some videos to YouTube. She has to deal with copyright claims.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Kim: I'd love to, but I'm not sure I can make it. I'm going to the gym.
+Lily: Oh, that's a good idea. I'll go with you.
+Kim: That's a great idea.
+Summary: Lily and Kim are going to
+Prediction: Dialogue: Mia and Steven are going to the movies. They will meet at 8pm to have dinner before the movie starts at 9pm.
+Dialogue: Mia: What time does the movie start?
+Steven: At 9pm
+Mia: Would you like to grab something to eat before that?
+Steven: Sure, let's meet at 8 then. Chinese?
+Mia: Always :)
+Summary: 
+
+Dialogue: Mia and Steven are going to the movies. They will meet at 8pm to have
+Prediction: Mike asks Sara to do the washing up. Sara will do it after she gets back from the cinema with Jack. Sam is jealous.
+Dialogue: Linda: Hi, how was your day?
+Mom: It was OK. I had a meeting with a client.
+Linda: Did you have a good time?
+Mom: Yes, I did. I had a nice lunch with him.
+Linda: That's good. I'm glad you're doing well.
+Mom: I'm glad too. I'm going to the gym now
+Prediction: Dialogue: Lisa: I need a dinner idea!
+Ruby: What's the occasion?
+Tilly: exorcist
+Aisha: exorcist
+Isabel: ok 3:0, the exorcist wins :D
+Summary: Isabel wants Darcey, Tilly and Aisha to decide on the film and the winner is The exorcist.
+Dialogue: Lisa: I need a dinner idea!
+Ruby: What's the occasion?
+Tilly: exorcist
+Aish
+Prediction: Dialogue: Jessica: Hey, I'm thinking of getting a new phone. What do you think? 
+Jessica: I'm thinking of getting the iPhone 12. 
+Jessica: I'm not sure if I should get the iPhone 12 or the Samsung Galaxy S20. 
+Jessica: I'm not sure if I should get the iPhone 12 or the Samsung Galaxy S20. 
+Jessica: I'm not sure if I should get the iPhone 12 or the Samsung
+Prediction: Iris's husband Pete had an interview. She is happy about it.
+
+
+Dialogue: Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_
+Prediction: Derek is going to be away for the weekend. He asks Judy to feed his animals and give him his keys.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Mike: I'm afraid I can't, I'm going to the gym. I'll see you later!
+Lily: Ok, bye!
+Summary: Lily is going to the cinema with her friends. Mike can't come because he is going to the gym.
+Dialogue: Lily: Hi
+Prediction: Wayne asks Tommy if his mother picked him up from the station. Tommy says she texted him to take a bus. Wayne is sorry. Tommy says he had a good time fishing.
+Dialogue: Lily: Hi, how was your day?
+Mike: It was good, thanks. How about you?
+Lily: It was OK. I had a meeting with a new client. It was OK, but I'm not sure if it's going to lead anywhere.
+Mike: That's a shame. I hope it does. I'm sure it will.
+L
+Prediction: Tilly has been detained at school. She will be home in about 40 minutes.
+
+
+Dialogue: Lily: Hi, I'm just calling to say that I'm on my way home now. I'll be there in about 20 minutes.
+Mum: OK, I'll be waiting.
+Summary: Lily is on her way home. She will be there in about 20 minutes.
+
+
+Dialogue: Lily: Hi, I'm just calling to say that I'm on my way home now. I'll be there in
+Prediction: Viola is getting married on Saturday. Carmen will be there on Friday night to help her with the last preparations.
+
+
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the university. I'm looking for people who have been here for a long time. I'm looking for people who have been here for a long time. I'm looking for people who have been here for a long time. I'm looking for people who have been here for a long time. I'm looking
+Prediction: William is making spaghetti and asks Olivia and Beth to buy some fresh tomatoes and chocolate.
+Dialogue: Lily: <file_photo>
+Lily: I'm so happy! I've just got a new job!
+Lily: I'll be working at the local supermarket as a cashier!
+Lily: I'm so excited! I'll be earning some money!
+Lily: I'll be able to buy some new clothes and stuff!
+Lily: I'll be starting next week! I'
+Prediction: 2 weeks earlier, Leah liked a post on FB announcing that a guy was going to accompany poets on the guitar during the poetry reading. The guy googled her out and thought that she had a crush on him. He tried to walk her home.
+Dialogue: Lola: Hi, I'm Lola. I'm a student at the university. I'm doing a research about the impact of social media on the youth. I'm looking for people who are willing to share their experiences. Would you be interested in participating in my research?
+Jessica: Hi
+Prediction: Jasmine and Paola are listening to Charlie Puth's new song. They also like Ed Sheeran's song Galway Girl.
+Dialogue: Lily: Hi, I'm back from the doctor's office. I'm pregnant!
+Mom: Oh my God! That's wonderful news!
+Dad: That's great! We're going to be grandparents!
+Lily: I know! I'm so happy! I'm going to have a baby!
+Mom: That's amazing! I
+Prediction: Stanley and Bill are discussing the Lidem project. Stanley is finishing the analysis of tasks, while Bill is researching the funding. Stanley is also finishing the analysis of tasks, while Bill is researching the funding. Stanley is also finishing the analysis of tasks, while Bill is researching the funding. Stanley is also finishing the analysis of tasks, while Bill is researching the funding. Stanley is also finishing the analysis of tasks, while Bill is researching the funding. Stanley is also finishing the analysis of tasks, while Bill is researching the funding. Stanley is also finishing the analysis of tasks,
+Prediction: Ali lost his wallet at Mohammad's place. He asks him to check if it's there. It is, and Mohammad will bring it to Ali tomorrow.
+
+
+Dialogue: Lily: I'm going to the cinema with my friends tonight. Do you want to come? 
+Mike: I'd love to, but I've got a meeting with my boss. 
+Lily: Oh, that's a shame. I'll let you know if it's a good film. 
+Mike: I'm sure it will
+Prediction: Dialogue: Lily: Hi, I'm Lily. I'm a student at the University of Michigan. I'm studying to be a doctor. I'm also a dancer. I'm a member of the dance team. I'm also a cheerleader. I'm also a singer. I'm also a songwriter. I'm also a poet. I'm also a writer. I'm also a painter. I'm also a photographer. I'm also a filmmaker. I'm also a director. I'm also an actor
+Prediction: Igor is on his notice period and has a lot of work to do. John advises him to do it anyway.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Mike: I'd love to, but I'm not sure I can make it. I'm meeting my friends at the park at 6pm. 
+Lily: Oh, that's a shame. I'll let you know if I'm still around. 
+Mike: No worries, I'll see you later
+Prediction: Dialogue: Lily: Hey, I'm going to the gym. Want to join? 
+Alice: I'd love to, but I'm not sure I can. I'm not feeling well. 
+Lily: Oh no, are you okay? 
+Alice: I think I have a cold. 
+Lily: Oh no, I hope you feel better soon. 
+Alice: Thanks, I'll try to rest and see if I can make it to the gym tomorrow. 
+Lily: Okay, I'll see
+Prediction: Chris and June pushed some girls into the pool.
+Dialogue: John: I'm going to the store. Do you need anything?
+Sarah: No, thanks. I'm good. I'll just wait for you to get back.
+John: Okay. I'll be back in a bit.
+Summary: John is going to the store. Sarah doesn't need anything.
+Dialogue: John: I'm going to the store. Do you need anything?
+Sarah: No, thanks. I'm good. I'll just wait for you to
+Prediction: Vincent broke his lamp with his bare hand while playing with his cat.
+
+
+Dialogue: Lily: <file_gif>
+Lily: I'm so happy!
+Lily: I'm going to be a big sister!
+Lily: I'm going to be a big sister!
+Lily: I'm going to be a big sister!
+Lily: I'm going to be a big sister!
+Lily: I'm going to be a big sister!
+Lily: I'm going to be a big sister!
+Lily: I'
+Prediction: Dialogue: Lily: Hey, I'm home!
+Mom: Hi, Lily! How was your day?
+Lily: It was good, thanks! I'm starving, can you make me a sandwich?
+Mom: Sure, I'll be right there!
+Summary: Lily is home from school.
+
+
+Dialogue: Lily: Hey, I'm home!
+Mom: Hi, Lily! How was your day?
+Lily: It was good, thanks! I'm starving, can
+Prediction: Margaret and Evans are planning to meet on 4th, 11th and 14th. They will meet on 17th if Evans is not away.
+Dialogue: Mia: Hey, I'm going to the cinema with my friends. Do you want to come?
+Jake: I'd love to, but I'm not sure if I can make it. I'll let you know later.
+Mia: Ok, no problem. I'll text you when I'm on my way to the cinema.
+Jake: Sounds good. I'
+Prediction: Jeff asks Vladimir, Tanya and Donald about the agreement between Russia and Iran. They say that the most important thing is that the sea will have a special legal status and that they will divide the seabed up. Jeff says that it's rich in resources.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Mike: I'd love to, but I'm not sure if I can make it
+Lily: Oh, that's a pity. I'll let you know if I can get some more tickets
+Prediction: Aimee is looking for Maryam. Soren thinks that Maryam might be with her father.
+Dialogue: Lily: Hi, how are you?
+Jessica: Hi Lily, I'm good, thanks. How about you?
+Lily: I'm good, thanks. I'm just wondering if you've seen my cat? I've lost him and I'm worried he's run away.
+Jessica: Oh no, that's terrible. I'm so sorry to hear that. I haven't seen him, but I
+Prediction: Charlie's sister has just passed her last exam on her Uni. Charlie wants to celebrate with Frank.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the university. I'm looking for some information. Do you have any information about the university?
+Mary: Hi Lily. I'm Mary. I'm a student at the university. I'm doing a project on the history of the university. I'm looking for some information. Do you have any information about the university
+Prediction: Dialogue: Linda: I'm going to the store, do you need anything?
+Mike: I'm good, thanks. 
+Linda: Okay, I'll see you later then. 
+Summary: Linda is going to the store. 
+
+
+Dialogue: Linda: I'm going to the store, do you need anything?
+Mike: I'm good, thanks. 
+Linda: Okay, I'll see you later then. 
+Summary: Linda is going to the store. 
+
+
+Dialog
+Prediction: Joe and Pete are going to watch Deadpool 2 together tonight.
+
+
+Dialogue: Lily: Hey, I'm going to the store. Do you need anything?
+Mike: Yeah, can you pick up some eggs? I'm out of them. And maybe some milk?
+Lily: Sure, I'll get you some eggs and milk. Anything else?
+Mike: No, that's it. Thanks!
+Summary: Lily is going to the store. Mike asks her to pick up some eggs and milk.
+
+
+Dialog
+Prediction: Dialogue: Jack:  Hi Kid, I'm sorry but I'll be late, pls wait for me!
+Maya: Ok Dad, I'm sitting in front of school with Kirsten and Brooke. When will you arrive?
+Jack: 20 minutes and I'm with you!
+Maya: That's pretty long, but I have no choice XD
+Jack: You always have a choice, like a bus for example:D
+Maya: Oh Dad, pls, it's not funny':)
+Prediction: Tom, Elena and Jeffrey are few meters from Jeffrey.
+Dialogue: John: Hey, how's the heating in your apartment? 
+Frank: It's ok, why do you ask?
+John: Because it's so cold in mine. Last year we were spending like 400 a month on heating.
+Frank: Well, I think our bills were around 200.
+John: Remember that we joined the 2 apartments. There's no radiator in between. No matter how high I put up the furnace
+Prediction: 3 people came to the presentation.
+
+
+Dialogue: Lia: How was the date?
+Linda: Surprisingly nice
+Joan: Why surprisingly?
+Linda: I really don't like blind dates
+Joan: So why did you go there?
+Linda: I didn't want to offend Lia, who arranged the whole thing
+Joan: But after all it was nice!
+Linda: Yes, it was. He's quite cute and very clever
+Joan: What's he doing in life?
+Linda: He'
+Prediction: Bella and Eric's boss appreciated their decision to dismiss a client's request.
+
+
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the University of London. I'm doing a project on the impact of social media on young people. I'm looking for people to interview. Would you be interested in being interviewed?
+Joe: Hi Lily, I'm Joe. I'm a student at the University of Oxford. I'm doing a project on the impact of social media on young people. I'm looking for people
+Prediction: Ryan wants to go to the casting of the show "So you think you can dance". Jack is going to the casting. Jack will meet Ryan there.
+
+
+Dialogue: Jack: Hey, I'm going to the gym. Want to join? 🏋️‍♂️💪🏼💪🏼💪🏼💪🏼💪🏼💪🏼💪🏼💪🏼
+Prediction: Sonia and Toni are planning a trip to San Sebastian. They stayed in an Airbnb last year. Toni recommends the same place.
+Dialogue: Lola: Hi, I'm looking for a new job. I'm a teacher.
+Lola: I'm looking for a job in a school.
+Lola: I'm looking for a job in a school.
+Lola: I'm looking for a job in a school.
+Lola: I'm looking for a job in a school.
+Lola: I'm looking for a job in a
+Prediction: Nathan and Deborah are going on a trip with their girls. Nathan will see the dentist after work, Deborah will pick up the girls from school and they will meet at home. Nathan will buy some syrup for travel sickness on his way from work.
+Dialogue: Lola: @Kev I dont think I know how to open it
+Kev: On my way!
+Lola: Can you just write which entrance is it? cant figure :(
+Diane: upper lock, anticlockwise
+Lola: Studio2, but we are already there
+Summary
+Prediction: Ross wants to do karaoke. Chandler agrees to it, but only once.
+Dialogue: Lily: Hi, I'm home!
+Mom: Hi, Lily! How was your day?
+Lily: It was good. I went to the park with my friends and played with them all day long. I had a lot of fun!
+Mom: That's great! I'm glad you had fun. Did you have lunch?
+Lily: Yes, I did. I had a sandwich and a juice box. I'
+Prediction: Judy is attracted to jerks. She broke up with Andrew because he only wanted to have sex with her. She is not sure if she is attracted to Bruce because he is too sweet.
+Dialogue: Lily: Hi, how was your day?
+Lily: I'm just curious
+Lily: I'm not judging
+Lily: I'm just curious
+Lily: I'm just curious
+Lily: I'm just curious
+Lily: I'm just curious
+Lily: I'm just curious
+Lily: I'm just
+Prediction: Kristina is watching America's top model. She wants to look like Tyra Banks.
+Dialogue: Jack: Hi, do you have time tomorrow?
+Martha: hey, sorry, I have a dentist appointment.
+Jack: really? again? I think you're avoiding me...
+Martha: calm down... it's not my fault I care about my teeth
+Jack: but it's so strange that everytime I want to hang out with you, oddly enough you're busy
+Martha: trust me... it's a coinc
+Prediction: Avril and Frank are going to see horse racing.
+
+
+Dialogue: Lily: Hi, how was your day?
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Prediction: Finn is looking for his package. He gives the order number to Jim. Jim tells him that the package has left the warehouse and will be delivered tomorrow.
+
+
+Dialogue: Lily: Hi, I'm looking for a new job. Do you know of any openings?
+Mom: I'm sure there are, but you should check online first. There are many job boards and websites that list job openings. You can also check with your school's career center or alumni network. Good luck!
+Lily: Thanks, Mom. I'
+Prediction: Tom and Ben are going to have a meeting in the Oval Room at 2pm.
+
+
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the University of London. I'm doing a project on the impact of social media on the youth. I'm looking for people to interview. Would you be interested in being interviewed? I'll be happy to buy you a coffee.
+Jessica: Hi Lily, I'm Jessica. I'm a student at the University of London too. I'm doing a project on the impact
+Prediction: Peter is stuck in traffic due to road repairs.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the city. I'm looking for people who can help me with my research. I'm especially interested in people who have lived here for a long time. I'd love to hear your stories.
+Mary: Hi Lily. I'm Mary. I've lived here for 40 years. I'd be happy to help you.
+Lily: That's great

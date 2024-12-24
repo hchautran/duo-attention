@@ -1,0 +1,139 @@
+Loading attention pattern from attn_patterns/Llama-2-7B-32K-Instruct/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10 with sparsity 0.0
+True sparsity: 0.0
+Enabling DuoAttention evaluation using sink size 64 and recent size 256
+Enabling tuple KV cache for Llama
+Prediction: Dialogue: Lily: Hi, I'm home!
+Mom: Hi, Lily! How was your day?
+Lily: It was good, thanks! I'm starving! Can you make me a sandwich?
+Mom: Sure, what kind do you want?
+Lily: I'm not sure, can you just surprise me?
+Mom: Sure, I'll make you a ham and cheese sandwich with some potato chips on the side. Would you like a drink?
+Lily: Yes, please
+Prediction: Jeff, Lia and Mico are going to a village party. Lia is tired after hiking, but Mico is excited about the party. Jeff will go as well. Mico will drive.
+Dialogue: Lily: I'm going to the cinema with my friends tonight!
+Mum: That sounds great!
+Dad: I'll pick you up at 8pm
+Lily: OK
+Lily: I'll be back at 10pm
+Mum: OK
+Dad: OK
+Lily: I'll text you when I'm on
+Prediction: Michael can't make it to the meeting today. He'll call Tom tomorrow.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the university. I'm doing a project on the history of the city. I'm looking for people who live here and have lived here for a long time. I'm looking for people who have lived here for a long time. I'm looking for people who have lived here for a long time. I'm looking for people who have lived here for a long time. I'm looking for people who have lived
+Prediction: Autumn has sewn a dress. She has not checked the tests for a month. She will show Israel the dress soon.
+Dialogue: Lily: Hi, how's work, got time for a little chat?
+Ethan: Yeah, things pretty quiet today. How's it going?
+Lily: Fine. Listen, Rob's out tonight, can I pop over. Karen's working, I assume?
+Ethan: Yeah, as usual! What time were you thinking?
+Lily: Round 7.30, ok?
+Prediction: Brenda and Sandra used to work together in the clothes factory. They haven't seen each other for 25 years. They plan to meet up for a reunion.
+Dialogue: Jack: Hey, I'm going to the cinema with my friends. Do you want to come?
+Emma: I'd love to, but I'm not sure if I can make it. I'll let you know tomorrow.
+Jack: Ok, no problem. I'll text you tomorrow to see if you're free.
+Emma: Ok, thanks!
+Summary:
+Prediction: Leah is giving Kristi a discount coupon for 20% off on all items on an online shop. Kristi will put Leah's ID on the reference code.
+Dialogue: Lily: Hi, how are you?
+Lily: I'm so sorry to hear that you're not feeling well.
+Lily: I hope you feel better soon.
+Lily: I'm here if you need to talk.
+Summary: Lily is concerned about her friend's health.
+Dialogue: Lily: Hi, how are you?
+Lily: I
+Prediction: Peter is working out regularly to improve his health. He goes to a gym near his office. He does weights and runs on the treadmill. He also emphasizes on the importance of sleep.
+Dialogue: Lily: Hi, how are you?
+Lily: I'm so sorry to hear that you're not well. I hope you'll feel better soon!
+Lily: I'm sure you'll be fine. I'm here if you need anything!
+Lily: I'm here if you need anything!
+Lily: I'm
+Prediction: Petra is sleepy and bored at work. She's working with her eyes open.
+Dialogue: Lily: I'm going to the gym tomorrow morning at 8 am. Do you want to join me?
+Tom: I'd love to, but I'm not sure if I'll be able to make it. I'm not feeling too well.
+Lily: Oh no, I hope you feel better soon! I'll let you know if I'm going to the gym alone.
+Tom: Thanks, Lily. I'll let you
+Prediction: Nova and Dominic are laughing at Timothée Chalamet's photoshopped portraits.
+Dialogue: Lily: Hi, I'm Lily. I'm a student at the University of Edinburgh. I'm doing a research on the impact of social media on young people's mental health. I'm looking for participants. Would you be interested in taking part in my research?
+Mia: Hi Lily, I'm Mia. I'm a student at the University of Glasgow. I'm doing a research on the impact of social media on young people
+Prediction: Adele has a new puppy, a labrador. She named him Bones. 
+Dialogue: Lola: hey girlfriend, what's up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Adele: the cats keep their distance, Poppy and Lulu seem to mother him. Speedy
+Prediction: Celine will visit Cara in the evening.
+
+
+Dialogue: Lia: have you seen the new movie?
+Holly: no, I haven't, but I've heard it's great!
+Lia: I'm going to see it tomorrow with my friends, wanna come?
+Holly: I'd love to, but I'm not sure if I can make it, I'll let you know tomorrow morning if I can go or not, ok?
+Lia: ok, no problem!
+Summary: Holly hasn'
+Prediction: Rachel, Janice and Spencer have watched almost all 50 best films of 2018. Janice has watched Deadpool 2 twice. Rachel and Janice have watched Avengers twice.
+Dialogue: Lola: hey girlfriend, what's up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Prediction: Luke and Martial are thinking about availing themselves for team selection tomorrow despite their injuries. They will meet up with Jose at Carrington and go to his office very early.
+Dialogue: Lily: I'm going to the cinema with my friends tonight, do you want to come?
+Jess: I'd love to, but I'm going to a concert with my boyfriend instead. I'm sure you'll have a great time though!
+Lily: That sounds like a lot of fun! I'm glad you're having a good time with your
+Prediction: Sally and Rita are talking about new music. Rita has heard the new album by Borns and loves it. Sally is excited for Florence's new single.
+Dialogue: Lily: <file_other>
+Lily: I'm so happy! I've just got a job in a local bakery! :D
+Lily: I'll be working there as a baker's assistant! :D
+Lily: I'll be making bread, cakes, cookies and pies! :D
+Lily: I'll be working
+Prediction: Martin won two cinema tickets. He won them by writing a short review on Facebook. He will go to see a new film with Redford.
+Dialogue: Lily: I'm so happy that you're coming home! Would you like to say over at your parents’ house?
+Josh: Don't no yet. Probably I'll stay at the hotel close to the city center. My parents live an hour from the city…
+Lily: Sure, we should meet when you come. 
+Josh: Of course! 
+Lily: Call me when you’re
+Prediction: Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Mia: I'd love to, but I have to do some shopping first. I'll come to the cinema after that.
+Lily: OK, see you there!
+Mia: See you there!
+Summary: Lily is going to the cinema with her friends. Mia will come to the cinema after shopping.
+Dialogue: Lily: Hi, I'm going to the cinema with my friends. Do you want to come?
+Prediction: Wanda wants to make a party and asks Gina to help her.
+Dialogue: Lily: I'm going to the cinema with my friends tonight!
+Mom: That sounds fun! What are you going to see?
+Lily: The new Star Wars movie!
+Mom: That sounds great! I'm sure you'll love it!
+Lily: I hope so! I've heard it's really good!
+Mom: I'm sure it is! Have a great time, sweetie!
+Lily: Thanks, M
+Prediction: Madison saw an offer for Thailand. The tickets cost a penny, but the rest is extra cheap. Children under 12 get 50% off.
+Dialogue: Lily: <file_photo>
+Lily: I'm so happy that I'm going to the concert tonight!
+Lily: I'm so excited! I'm going to see my favorite band live!
+Lily: I'm so happy that I'm going to the concert tonight!
+Lily: I'm so excited! I'm going to see
+Prediction: Charlee is studying Portuguese theatre at the university. She is preparing a performance of a Polish play translated into Portuguese. The play is by Mrożek.
+Dialogue: Lily: Hi, I'm home!
+Mom: Hi Lily!
+Lily: I'm so happy to be home!
+Mom: I'm glad you're back!
+Lily: I'm so tired!
+Mom: I'm sure you are. How was your trip?
+Lily: It was great! I had a lot of fun!
+Mom: That'
+Prediction: Jesse broke his razor and needs to borrow Stig's.
+Dialogue: Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+Lily: <file_photo>
+L

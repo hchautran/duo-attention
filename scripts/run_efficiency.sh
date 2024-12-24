@@ -5,7 +5,7 @@ max_lengths="100000 200000 300000 400000 500000 600000 700000 800000 900000 1000
 
 for max_length in $max_lengths; do
     for sparsity in $sparsities; do
-        CUDA_VISIBLE_DEVICES=0 bash scripts/efficiency.sh $model_name "attn_patterns/${model_name}/${attn_pattern_name}" $sparsity $max_length
+        CUDA_VISIBLE_DEVICES=0,1 bash scripts/efficiency.sh $model_name "attn_patterns/${model_name}/${attn_pattern_name}" $sparsity $max_length
     done
 done
 
@@ -16,6 +16,6 @@ max_lengths="20000 40000 60000 80000 100000 120000 140000 160000 180000 200000"
 
 for max_length in $max_lengths; do
     for sparsity in $sparsities; do
-        CUDA_VISIBLE_DEVICES=0 bash scripts/efficiency.sh $model_name "attn_patterns/${model_name}/${attn_pattern_name}" $sparsity $max_length
+        CUDA_VISIBLE_DEVICES=0,1 bash scripts/efficiency.sh $model_name "attn_patterns/${model_name}/${attn_pattern_name}" $sparsity $max_length
     done
 done
